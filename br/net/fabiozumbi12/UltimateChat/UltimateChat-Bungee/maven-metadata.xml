@@ -3,10 +3,10 @@
   <groupId>br.net.fabiozumbi12.UltimateChat</groupId>
   <artifactId>UltimateChat-Bungee</artifactId>
   <versioning>
-    <release>1.8.4</release>
+    <release>1.8.5</release>
     <versions>
-      <version>1.8.4</version>
+      <version>1.8.5</version>
     </versions>
-    <lastUpdated>20180118220549</lastUpdated>
+    <lastUpdated>20180130212238</lastUpdated>
   </versioning>
 </metadata>
